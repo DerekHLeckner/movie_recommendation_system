@@ -8,4 +8,6 @@ Using the clustering method, I divide a list of movie watchers into k clusters a
 
 I want to add a feature where a user inputs all the movies they have seen, and give them reccomendations. However, given there's a lot of movies, this would take forever. So I made sure you can see what movies a random chosen user has seen when you run the system, that way you can view the reccomendations and judge accuracy for yourself!
 
+Please execute the main.py file, not the notebook!
+
 
